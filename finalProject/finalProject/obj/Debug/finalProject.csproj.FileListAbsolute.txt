@@ -1,0 +1,7 @@
+C:\Users\blasc\Desktop\CIT 110\Week 14\finalProject\finalProject\bin\Debug\finalProject.exe.config
+C:\Users\blasc\Desktop\CIT 110\Week 14\finalProject\finalProject\bin\Debug\finalProject.exe
+C:\Users\blasc\Desktop\CIT 110\Week 14\finalProject\finalProject\bin\Debug\finalProject.pdb
+C:\Users\blasc\Desktop\CIT 110\Week 14\finalProject\finalProject\obj\Debug\finalProject.csprojAssemblyReference.cache
+C:\Users\blasc\Desktop\CIT 110\Week 14\finalProject\finalProject\obj\Debug\finalProject.csproj.CoreCompileInputs.cache
+C:\Users\blasc\Desktop\CIT 110\Week 14\finalProject\finalProject\obj\Debug\finalProject.exe
+C:\Users\blasc\Desktop\CIT 110\Week 14\finalProject\finalProject\obj\Debug\finalProject.pdb
